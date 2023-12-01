@@ -1,0 +1,8 @@
+Pros:
+code is commented well, and the code is easy to read, along with being well structured
+
+Cons:
+code can use more error handling to be more safe, and code uses systems local time zone, which can be changed by the user
+
+morgan21402 (morganpham3300) Eunice Hong (eunice2713) Vatsa Bhatt (vb24) Aiden Barker (aidenbarker)
+
